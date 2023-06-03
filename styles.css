@@ -1,0 +1,17 @@
+.mainPage{
+  text-align: center;
+  align-self: center;
+  align-items: center;
+  align-content: center;
+ background-color: bisque;
+
+}
+
+
+.Center{
+  text-align: center;
+  align-self: center;
+  align-items: center;
+  align-content: center;
+  margin-left: 50%;
+}
